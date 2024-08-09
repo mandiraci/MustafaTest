@@ -8,5 +8,7 @@ public class MustyMainMethod {
         System.out.println(total);
         System.out.println("that's right");
 
+        // adding this
+        System.out.println(" you are great");
     }
 }
